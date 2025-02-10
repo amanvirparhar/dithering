@@ -1,4 +1,4 @@
-# Aman Dither
+# Aman's Dither
 
 ![Dither Thumbnail](./thumbnail.png)
 
